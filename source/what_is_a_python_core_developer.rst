@@ -18,7 +18,7 @@ Proposal
 
 The following was the proposal I submitted to PyCon US 2018. Yes, I deviated from
 the outline in the actual talk. There was an important topic that I had left
-out from the proposal. I didn't actually to touch upon it myself, but
+out from the proposal. I didn't actually want to touch upon it myself, but
 days before the conference, I decided I had to talk about it.
 
 
