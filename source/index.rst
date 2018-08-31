@@ -10,8 +10,6 @@ List of talk proposals I've submitted to conferences.
 
 I hope you find these useful.
 
-
-
 .. toctree::
    :titlesonly:
 
@@ -19,3 +17,8 @@ I hope you find these useful.
    dial_m_for_mentor
    pep_498_the_monologue
    what_is_a_python_core_developer
+   build_a_github_bot_workshop
+
+
+`Talk Talk Talk <https://www.youtube.com/watch?v=1g4_9vDNTh4>`_
+by Darren Hayes.
