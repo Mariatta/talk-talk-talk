@@ -5,4 +5,4 @@ cache: pip
 install: python3 -m pip install sphinx
 
 script:
-    - sphinx-build -n -W -q -b html -d _build/doctrees . _build/html
+    - sphinx-build -n -W -q -b html -d _build/doctrees ./source _build/html
