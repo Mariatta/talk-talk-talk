@@ -40,5 +40,5 @@ jobs:
       versionSpec: '3.x'
       architecture: 'x64'
 
-  - script: sphinx-build -n -W -q -b html -d _build/doctrees ./source _build/html
+  - script: make html
     displayName: 'Build the docs'
