@@ -40,5 +40,5 @@ jobs:
       versionSpec: '3.x'
       architecture: 'x64'
 
-  - script: make html
+  - script: pip freeze
     displayName: 'Build the docs'
