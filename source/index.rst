@@ -19,6 +19,7 @@ I hope you find these useful.
    what_is_a_python_core_developer
    build_a_github_bot_workshop
    hands_on_intro_to_aiohttp
+   dont_be_a_robot_build_the_bot
 
 
 `Talk Talk Talk <https://www.youtube.com/watch?v=1g4_9vDNTh4>`_
